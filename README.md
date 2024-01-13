@@ -1,4 +1,4 @@
-# Audio Adversarial Attack amd Defence
+# Audio Adversarial Attack and Defence
 This is an implementation of an audio adversarial attack on the DeepSpeech Automatic Speech Recognition (ASR) system. The goal of this project is to generate adversarial audio samples that can cause the ASR system to misinterpret the original audio incorrectly or as the target transcription while maintaining perceptual similarity to the original audio.
 
 This project utilizes the DeepSpeech ASR model, TensorFlow, and various signal processing techniques to craft adversarial perturbations for speech signals. It is essential to use this project responsibly and only for research and testing purposes with proper authorization.
